@@ -1,0 +1,14 @@
+p
+{
+    text-align: center;
+    
+}
+div
+{
+     border:2px solid rgb(133, 55, 55);
+     height: 60px;
+     width: 300px;
+     background-color: rgb(219, 175, 190);
+     position: relative;
+     left:100px;
+}

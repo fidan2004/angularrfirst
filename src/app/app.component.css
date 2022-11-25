@@ -1,0 +1,35 @@
+p
+{
+    text-align: center;
+    
+    
+}
+div
+{
+     border:2px solid rgb(17, 97, 9);
+     height: 60px;
+     width: 300px;
+     background-color: rgb(124, 220, 132);
+     position: relative;
+     left:100px;
+}
+
+.text
+{
+    position: absolute;
+    margin-left: 100px;
+    font-family:fantasy
+}
+.btn
+{
+    position: absolute;
+    margin-left: 100px;
+    width: 90px;
+    height: 30px;
+    border-radius: 3px;
+}
+.btn:hover
+{
+    background-color: rgb(233, 204, 169);
+   
+}

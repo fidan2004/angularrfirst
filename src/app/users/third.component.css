@@ -1,0 +1,19 @@
+.btn
+{
+    margin-left: 100px;
+    width: 60px;
+    height: 30px;
+    border-radius: 3px;
+}
+.btn
+{
+    background-color: rgb(195, 155, 232);
+}
+.btn:active
+{
+    background-color: red;
+}
+.btn:disabled
+{
+    background-color: rgb(91, 116, 116);
+}
